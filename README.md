@@ -81,7 +81,7 @@ Before running the project, ensure you have the following dependencies installed
 
 1. *Clone the repository*:
    
-   git clone <repository_url>
+   git clone <repository_urhttps://github.com/omkartonde11/Image_Tampering_Detection_System.git>
    cd image-tampering-detection
    
 
