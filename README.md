@@ -68,7 +68,7 @@ Before running the project, ensure you have the following dependencies installed
 ## Project Structure
 
 
-# Flask Structure :
+### Flask Structure :
 ├── app.py               # Flask app to serve the frontend
 ├── static/              # Contains static files (CSS, JS)
 ├── templates/           # HTML templates for the Flask frontend
